@@ -63,7 +63,7 @@ Small businesses
 Rural households
 📌 Installation
 # Clone the repository
-git clone https://github.com/your-username/electricity-outage-intelligence.git
+git clone https://github.com/santoshkumarmahato17/Electricity-Outage-Intelligence-System.git
 
 # Navigate to project folder
 cd electricity-outage-intelligence
